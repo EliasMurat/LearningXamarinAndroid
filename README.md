@@ -2,7 +2,7 @@
 
 Seja bem-vindo !
 
-Esse repositório foi criado para mostrar projetos criados durante as aulas de Tecnologia Móveis (TM). 
+Esse repositório foi criado para mostrar projetos criados durante as aulas de Tecnologia Mobile (TM). 
 
 #### Projetos:
 - IMC
